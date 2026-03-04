@@ -4,11 +4,17 @@
 This project demonstrates end-to-end manual testing performed on the OrangeHRM demo web application. The goal was to validate core HR functionalities and ensure the system meets business requirements.
 
 ## 🧪 Modules Tested
-- Login Module
-- PIM (Employee Management)
-- Leave Module
-- Admin Module
 
+- Login
+- Admin
+- PIM (Employee Management)
+- Leave
+- Recruitment
+- Dashboard
+- Time
+- Performance
+- My Info
+- System & Miscellaneous
 ## 📑 Test Artifacts Included
 - Test Plan
 - Test Scenarios
