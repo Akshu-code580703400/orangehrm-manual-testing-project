@@ -1,2 +1,40 @@
-# orangehrm-manual-testing-project
-Manual QA testing project for OrangeHRM demo application demonstrating test planning, scenario creation, 63 test cases execution, RTM preparation, and defect reporting (5 bugs). Includes screenshots as execution evidence and structured documentation.
+# OrangeHRM Demo – Manual Testing Project
+
+## 📌 Project Overview
+This project demonstrates end-to-end manual testing performed on the OrangeHRM demo web application. The goal was to validate core HR functionalities and ensure the system meets business requirements.
+
+## 🧪 Modules Tested
+- Login Module
+- PIM (Employee Management)
+- Leave Module
+- Admin Module
+
+## 📑 Test Artifacts Included
+- Test Plan
+- Test Scenarios
+- 63 Detailed Test Cases
+- Bug Report (5 Defects Identified)
+- Requirement Traceability Matrix (RTM)
+- Execution Evidence with Screenshots
+
+## 🔍 Testing Types Performed
+- Functional Testing
+- Smoke Testing
+- Regression Testing
+- Boundary Value Analysis
+- Equivalence Partitioning
+
+## 🐞 Defect Summary
+- Total Test Cases Executed: 63
+- Total Defects Identified: 5
+- Critical: 1
+- Major: 2
+- Minor: 2
+
+## 🛠 Tools Used
+- MS Excel
+- Jira (Defect Tracking)
+- GitHub (Project Documentation)
+
+## 🎯 Conclusion
+The application was tested using structured test documentation. All defects were logged with proper severity and priority. RTM was maintained to ensure complete requirement coverage and traceability.
